@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-[![My Skills](https://skillicons.dev/icons?i=git,dotnet,python,django,docker,postgres,mongo,mysql,aws&perline=10)](https://riazuddin.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,dotnet,python,django,fastapi,docker,postgres,mongo,mysql,aws,redis,mint&perline=10)](https://riazuddin.dev)
 
 <!---
 riazuddinse/riazuddinse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
